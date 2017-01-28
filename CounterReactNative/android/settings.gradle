@@ -1,0 +1,3 @@
+rootProject.name = 'counterNative'
+
+include ':app'
